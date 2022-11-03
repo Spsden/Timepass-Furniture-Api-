@@ -1,0 +1,124 @@
+{
+    "all" : [
+        {
+           "id":"1",
+           "name":"Colina King Bed",
+           "desc":"Febonic range of Beds brings impeccable aesthetics and design value to your interiors. It is made with finest fabric and takes hours of craftsmanship before we ship it to our beloved customers.",
+           "price":"₹ 37,156",
+           "img_url":"https://i.imgur.com/WiekFb2.png",
+           "cat":"bed"
+        },
+        {
+           "id":"2",
+           "name":"Glorious King Size",
+           "desc":"Fulfilling Dreams is like a fine delicacy that is desired by many, but enjoyed by few. Here you will find the perfect combination of your dreams & our passion coming together to make your design dreams come true. Whether our furniture becomes the centrepiece of your freshly designed room or a perfect accent to existing decor, we deliver furniture for your individual needs.Upholstered Beds are covered in light padding and fabric which gives a textural appeal; they could be made with velvet, leatherette, suede or simple fabric upholstery and typically have tufted or straight streamlined headboards.",
+           "price":"₹ 45,634",
+           "img_url":"https://i.imgur.com/G8kNgVr.png",
+           "cat":"bed"
+        },
+        {
+           "id":"3",
+           "name":"Abstract King Size Bed",
+           "desc":"The journey of Prava started with one crucial question, Why is furniture a lifetime decision? The answer was pretty simple - because it is not easy for people to change their furniture. Devising a solution to this was the genesis of Prava - the only lifestyle brand in India with limited edition annual collections and a unique programme that makes it easy to change the look of your home.This minimal yet plush, fully upholstered bed has a pleasingly rounded and soft form. Its well-cushioned, winged headboard is perfect for nestling into and is available in subtle, solid hues.",
+           "price":"₹ 49,634",
+           "img_url":"https://i.imgur.com/atqYpyp.png",
+           "cat":"bed"
+        },
+        {
+           "id":"4",
+           "name":"Tyne Solid Wood Lounge Chair",
+           "desc":"Amberville is synonymous to a stately and gracious living. Taking inspiration from the classic colonial style of furniture prevalent during the 1800s,the Amberville Colonial line reflects distinct curved lines, classically proportioned form, symmetrical moldings and trims having a very smooth and superior finish, which evoke a sense of nostalgia.",
+           "price":"₹ 18,126",
+           "img_url":"https://i.imgur.com/VatuJg5.png",
+           "cat":"chair"
+        },
+        {
+           "id":"5",
+           "name":"Telford Upholstered Arm Chair",
+           "desc":"Woodsworth epitomizes the idea of bringing exceptional value with distinctive furniture for your home. Reflecting designs that are sleek, trendy and functional, Woodsworth delivers the right blend of style and value, aesthetics and functionality, as well as comfort and uncompromised quality.",
+           "price":"₹ 21,156",
+           "img_url":"https://i.imgur.com/2IZr98e.png",
+           "cat":"chair"
+        },
+        {
+           "id":"6",
+           "name":"Velvet Lounge Chair in Honey Oak Finish",
+           "desc":"Woodsworth epitomizes the idea of bringing exceptional value with distinctive furniture for your home. Reflecting designs that are sleek, trendy and functional, Woodsworth delivers the right blend of style and value, aesthetics and functionality, as well as comfort and uncompromised quality.",
+           "price":"₹ 15,146",
+           "img_url":"https://i.imgur.com/dPnlLwS.png",
+           "cat":"chair"
+        },
+        {
+           "id":"7",
+           "name":"Rome 2 Seater Sofa",
+           "desc":"ARRA caters to a range of furniture which is knock down, multipurpose in use, simple styles, light weight, easy to use, comfortable, with distinct and unforgettable experience. ARRA is dedicated to fostering freedom in design in home Furniture. The makers of ARRA carry 14 years of experience in furniture industry.A Sofa cum Bed is a multi-functional piece of furniture, its a sofa or divan by day, flipped into a double bed at night. Available in different styles like the simple foldable or the pull out or convertible version.",
+           "price":"₹ 45,634",
+           "img_url":"https://i.imgur.com/iFa0EY1.png",
+           "cat":"chair"
+        },
+        {
+           "id":"8",
+           "name":"Kosmo Harmony Coffee Table",
+           "desc":"Kosmo furniture offers a wide range of furniture that is strong, durable and tough. It comes from the house of Spacewood, which is Indias largest furniture manufacturer. These products are made from melamine and membrane finish technology with an Iso: 9001, 18001, 14001 approved quality standards. All our products go through stringent quality checks to provide you the best of best at the most durable prices.",
+           "price":"₹ 4,000",
+           "img_url":"https://i.imgur.com/QHzl7dV.png",
+           "cat":"table"
+        },
+        {
+           "id":"9",
+           "name":"Plain wooden chair",
+           "desc":"Home Wud offers a wide range of furniture that is strong and durable at affordable price.If youre looking for furniture thats affordable, different, durable, classy- Home Wud is the perfect choice for all your needs",
+           "price":"₹ 7,231",
+           "img_url":"https://i.imgur.com/CP262bY.png",
+           "cat":"table"
+        },
+        {
+           "id":"10",
+           "name":"Minto Gold Marble Top Nesting Table",
+           "desc":"Shivio Marble Top Furniture is a collection of furniture made from marble. The pieces are handcrafted using the finest materials and techniques. Each piece is unique and will be a beautiful addition to your home or office",
+           "price":"₹ 21,339",
+           "img_url":"https://i.imgur.com/JYjRTZ8.png",
+           "cat":"table"
+        },
+        {
+           "id":"11",
+           "name":"Archie Coffee Table",
+           "desc":"Bantia Furniture most trusted company is in the business for last 65 years. Bantia Furnitures has become synonymous with quality because of consistent endeavor and personal sourcing coupled with attractive prices.Beginning in 1880, the word recliner was used to describe a type of chair. A recliner is an armchair or sofa that reclines when the occupant lowers the chair's back and raises its front. It has a backrest that can be tilted back, and often a footrest that may be extended by means of a lever on the side of the chair, or may extend automatically when the back is reclined.",
+           "price":"₹ 2,845",
+           "img_url":"https://i.imgur.com/nlNhBm1.png",
+           "cat":"table"
+        },
+        {
+           "id":"12",
+           "name":"Iron Abeer Vase",
+           "desc":"This vase works well for a floral arrangement with a mix of colorful flowers. Use it in multiples for exclusive floral arrangements at entryway This flower vase is made from one Piece of Iron with unique Decorative design Perfect for add beauty of natural/artificial flowers to home, also a good gift item Handmade by skilled artisans. Here is a unique flower vase pot whose beauty and craftsmanship will never go out of style. The flower vase represents the creativity, and its beauty symbolizes fertility, acceptance and popularity. One can make it hold flowers, dry decorations, pearl strings",
+           "price":"₹ 4,315",
+           "img_url":"https://i.imgur.com/dm7iKjY.png",
+           "cat":"vase"
+        },
+        {
+           "id":"13",
+           "name":"Tiara White Resin Table Vase",
+           "desc":"As straight as it sounds, but is still a challenge for the people in India to find suitable home dcor products which for the most part, either are not readily available or comes at a hefty affair. This reason led to the birth of FOLKSTORYS, an aesthetic design and dcor company that brings that very essence & completeness to your home.",
+           "price":"₹ 1,196",
+           "img_url":"https://i.imgur.com/7dsDFCQ.png",
+           "cat":"vase"
+        },
+        {
+           "id":"14",
+           "name":"Sheesham Wood Book Shelf",
+           "desc":"Decorate your walls with these well designed and ergonomic wall shelves. Available in a variety of styles and designs, you can use them to organise your essentials or display decorative items. A one stop-shop for home decor and furniture, Pepperfry sells a home product every 30 seconds",
+           "price":"₹ 4,522",
+           "img_url":"https://i.imgur.com/S8idFQl.png",
+           "cat":"shelf"
+        },
+        {
+           "id":"15",
+           "name":"Sheesham Wood Book Shelf in Provincial Teak Finish",
+           "desc":"Decorate your walls with these well designed and ergonomic wall shelves. Available in a variety of styles and designs, you can use them to organise your essentials or display decorative items. A one stop-shop for home decor and furniture, Pepperfry sells a home product every 30 seconds.",
+           "price":"₹ 4,490",
+           "img_url":"https://i.imgur.com/3dhI87p.png",
+           "cat":"shelf"
+        }
+     ]
+}
